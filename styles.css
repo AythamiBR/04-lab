@@ -33,12 +33,12 @@ nav a {
   display: flex;
 }
 
-/* comment in for CSS-only solution: */
-/* .menu:hover + nav,
+/* 
+.menu:hover + nav,
 nav:hover {
   display: flex;
-} */
-
+} 
+ */
 
 
 /* TABLET STYLES */
